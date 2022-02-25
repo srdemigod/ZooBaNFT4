@@ -1,0 +1,21 @@
+{
+    "tokenId": "006",
+    "name":	"Liz #006",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT3/master/assets/ZooBaNFT_006.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Female"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Support Trapper"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Axolotl"
+        }
+    ]
+}

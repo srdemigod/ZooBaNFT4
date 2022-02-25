@@ -1,0 +1,21 @@
+{
+    "tokenId": "002",
+    "name":	"Bruce #002",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT3/master/assets/ZooBaNFT_002.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Unstoppable Warrior"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Gorilla"
+        }
+    ]
+}

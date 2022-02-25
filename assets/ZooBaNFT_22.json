@@ -1,0 +1,21 @@
+{
+    "tokenId": "022",
+    "name":	"Pepper #022",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT2/master/assets/ZooBaNFT_022.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "All Seeing Sniper"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Giraffe"
+        }
+    ]
+}

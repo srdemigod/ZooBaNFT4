@@ -1,0 +1,21 @@
+{
+    "tokenId": "011",
+    "name":	"Larry #011",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT3/master/assets/ZooBaNFT_011.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Stealthy Menace"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Chameleon"
+        }
+    ]
+}

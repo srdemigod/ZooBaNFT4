@@ -1,0 +1,21 @@
+{
+    "tokenId": "021",
+    "name":	"Louie #021",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT2/master/assets/ZooBaNFT_021.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Horde Master"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Radent (Rat)"
+        }
+    ]
+}

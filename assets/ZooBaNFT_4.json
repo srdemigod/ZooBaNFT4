@@ -1,0 +1,21 @@
+{
+    "tokenId": "004",
+    "name":	"Besty #004",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT3/master/assets/ZooBaNFT_004.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Female"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Ingenious Builder"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Beaver"
+        }
+    ]
+}

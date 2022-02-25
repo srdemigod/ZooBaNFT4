@@ -1,0 +1,21 @@
+{
+    "tokenId": "014",
+    "name":	"Yara #014",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT1/master/assets/ZooBaNFT_014.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Female"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Energetic Singer"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Hyacinth Macaw"
+        }
+    ]
+}

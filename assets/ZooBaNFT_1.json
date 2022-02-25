@@ -1,0 +1,21 @@
+{
+    "tokenId": "001",
+    "name":	"Buck #001",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT3/master/assets/ZooBaNFT_001.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Close Range Fighter"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Bison"
+        }
+    ]
+}

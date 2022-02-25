@@ -1,0 +1,21 @@
+{
+    "tokenId": "018",
+    "name":	"Stave #018",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT1/master/assets/ZooBaNFT_018.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Dauntless Diver"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Eagle"
+        }
+    ]
+}

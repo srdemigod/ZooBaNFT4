@@ -1,0 +1,21 @@
+{
+    "tokenId": "003",
+    "name":	"Duke #003",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT3/master/assets/ZooBaNFT_003.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Short Fused Tank"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Lion"
+        }
+    ]
+}

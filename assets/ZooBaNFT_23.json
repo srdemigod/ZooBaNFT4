@@ -1,0 +1,21 @@
+{
+    "tokenId": "023",
+    "name":	"Frank #023",
+    "description":	"Hiding in the metaverse",
+    "image":	"https://raw.githubusercontent.com/srdemigod/ZooBaNFT2/master/assets/ZooBaNFT_023.png",
+    "external_url": "https://github.com/srdemigod/ZooBaNFT",
+    "attributes": [
+        {
+            "trait_type": "GENDER",
+            "value": "Male"
+        },
+        {
+            "trait_type": "PLAYSTYLE",
+            "value": "Ballooing Buddy"
+        },
+        {
+            "trait_type": "SPECIES",
+            "value": "Elephant"
+        }
+    ]
+}
